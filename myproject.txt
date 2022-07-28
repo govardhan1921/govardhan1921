@@ -11,4 +11,13 @@ kfrig
 jgtrlj
 4tiuw96p
 trpieotu5ypo6
+<<<<<<< HEAD
 tojrt5pgit 
+=======
+tojrt5pgit sts
+gjkth
+efjoggit 
+hi am practicing on branching in github
+today is thursday
+this is 28th day in july
+>>>>>>> 09f93c5333e43591e4d4c990795b9ec883cf62cb
